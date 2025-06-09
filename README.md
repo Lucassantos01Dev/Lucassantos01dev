@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack💾`**
 
-Me chamo Lucas Santos, sou formado em técnico em eletromecânica, mas a paixão pela informática me fez querer ser desenvolvedor. Então, comecei a cursar Análise e Desenvolvimento de Dados
+Me chamo Lucas Santos, sou formado em técnico em eletromecânica, mas a paixão pela informática me fez querer ser desenvolvedor. Então, comecei a cursar Análise e Desenvolvimento de Sistemas
 
 ---
 
